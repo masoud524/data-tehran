@@ -1,0 +1,9 @@
+<?php
+require_once('arz.php');
+require_once('saham.php');
+require_once('mix.php');
+require_once('sabet.php');
+require_once('tala.php');
+require_once('xug.php');
+require_once('shakhes.php');
+require_once('sekeh.php');
